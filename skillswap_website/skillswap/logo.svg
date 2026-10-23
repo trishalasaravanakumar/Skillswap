@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="Skill Swap">
+  <rect width="64" height="64" rx="14" fill="#004ac6"/>
+  <g fill="none" stroke="#ffffff" stroke-width="4.5" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M15 24H46M39 17L46 24L39 31"/>
+    <path d="M49 41H18M25 34L18 41L25 48"/>
+  </g>
+</svg>
